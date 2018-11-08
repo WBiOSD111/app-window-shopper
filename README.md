@@ -9,7 +9,7 @@
 
 Third of many apps created by following the [iOS 12 & Swift 4: From Beginner to Paid Professional](https://www.udemy.com/devslopes-ios12/learn/v4/content) course on Udemy by Mark Price.
 
-<img alt="window-home-screen" src="window-shopper-home.jpg" width="200"><img alt="window-input-screen" src="window-shopper-input" width="200"><img alt="window-result-screen" src="window-shopper-result.jpg" width="200">
+<img alt="window-home-screen" src="window-shopper-home.jpg" width="200"><img alt="window-input-screen" src="window-shopper-input.jpg" width="200"><img alt="window-result-screen" src="window-shopper-result.jpg" width="200">
 
 ## Features
 
