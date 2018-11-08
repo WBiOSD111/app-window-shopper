@@ -13,7 +13,7 @@ Third of many apps created by following the [iOS 12 & Swift 4: From Beginner to 
 
 ## Features
 
-- [x] Custom text fields programmatically
+- [x] Custom text fields (programmatically)
 - [x] Input accessory view and IBDesignable
 - [x] Simple unit tests
 - [x] Business logic for calculations
